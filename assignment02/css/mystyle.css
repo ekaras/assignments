@@ -1,0 +1,29 @@
+/* overrides for bootstrap*/
+
+.container{
+	width: 1280px;
+}
+.side-bar{
+	background: #000;
+}
+.logo{
+	
+	text-indent: -9999px;	
+}
+.logo a{
+	background: url(../img/TDW.png) no-repeat;
+	width: 99px;
+	height: 35px;
+	display: block;
+	margin: 40px auto 20px;
+}
+
+.user-nav-bar{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;;
+}
+.user-nav-bar a{
+	color: #fff;
+	padding: 0px 5px;
+}
